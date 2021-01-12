@@ -1,0 +1,82 @@
+header h1 {
+	font-size: 170%;
+	color: #006600;
+	padding-top: 2px;
+	padding-left: 90px;
+	float: left;
+
+}
+
+.sidebar {
+	background-image: url(../images/odin-logo.jpg); 
+	padding-top: 100px;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+/* site navigation */
+.site-nav {
+	margin-bottom: 6%;
+}
+
+.site-nav li {
+	list-style: none;
+	float: right;
+	margin-left: 10px;
+	padding-right: 20px;
+	padding-top: 25px;
+}
+.site-nav a {
+	text-decoration: none;
+	display: block;
+	color: #006600;
+}
+/* End site navigation */
+
+h2 {
+	margin-top: 4%;
+	text-align: center;
+}
+ p {
+	text-align: center;
+	font-weight: bold;
+}
+.content-area {
+	position: relative;
+	top: 80px;
+}
+
+.content {
+	text-align: center;
+	padding-left: 20px;
+	font-size: 40px;
+}
+
+.content button {
+	margin: 5px;
+	width: 15%;
+	font-weight: bold;
+	color: #fff;
+	background-color: green;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* image background Demo */
+.html {
+	background-image: url(../images/odin.jpg);
+	width: 100%;
+	height: 350px;
+	margin: 0;
+	padding: 0;
+	bottom: 10
+	position: relative;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
